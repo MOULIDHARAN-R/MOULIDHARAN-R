@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋, I'm Moulidharan R  
 
-<!--
-**MOULIDHARAN-R/MOULIDHARAN-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Undergraduate (Year 2) – Computer Science & Engineering  
+🏫 Indian Institute of Information Technology, Sri City  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Currently Learning
+- **Full-Stack Software Development (FFSD)**
+
+###  Looking to Collaborate On
+- Full-stack web development projects  
+- Student-led tech projects & hackathons  
+- Open-source beginner-friendly repositories  
+
+### 💬 Ask Me About
+- C Programming  
+- Data Structures & Algorithms  
+- Basics of Web Development  
+
+### 📫 How to Reach Me
+- 📧 Email: **moulidharanr08@gmail.com**  
+- 💼 LinkedIn: [Moulidharan R](https://www.linkedin.com/in/moulidharan-r-264a73320)
+
+### ⚡ Fun Fact
+- I enjoy learning by building real projects 🚀
+
